@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{xu2023animal3d,
+  title={Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape},
+  author={Xu, Jiacong and Zhang, Yi and Peng, Jiawei and Ma, Wufei and Jesslen, Artur and Ji, Pengliang and Hu, Qixin and Zhang, Jiehua and Liu, Qihao and Wang, Jiahao and others},
+  journal={arXiv preprint arXiv:2308.11737},
+  year={2023}
 }
